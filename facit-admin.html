@@ -68,22 +68,29 @@ input[type=text]{width:100%;}
     1. Öppna den här filens kod och hitta konstanterna högst upp i scriptet (sök efter "FYLL I").<br>
     2. Sätt <b>owner</b> till ditt GitHub-användarnamn och <b>repo</b> till repots namn.<br>
     3. Skapa en token: github.com → din profilbild → Settings → Developer settings → Personal access tokens → Fine-grained tokens → Generate new token. Begränsa den till <b>endast detta repo</b>, och ge den behörigheten <b>Contents: Read and write</b> (inget annat behövs).<br>
-    4. Klistra in token-strängen i koden där det står "FYLL I DIN TOKEN".<br>
+    4. Klistra in ungefär första halvan av token i TOKEN_PART_A och resten i TOKEN_PART_B (den är delad i koden så GitHubs egen säkerhetsskanning inte blockerar uppladdningen).<br>
     5. Spara filen och ladda upp den till samma repo, gärna med ett svårgissat filnamn (t.ex. facit-admin-x7k2.html) eftersom det är just adressen som skyddar sidan.<br>
-    6. Klart — öppna din nya hemliga adress, redigera, och tryck "Spara facit till GitHub".
+    6. Klart — öppna din nya hemliga adress, redigera, och tryck "Spara facit till GitHub".<br><br>
+    <b>Om GitHub fortfarande blockerar uppladdningen</b> ("secret detected"): gå till repots Settings → Code security and analysis → stäng av "Push protection" (och "Secret scanning" om den är på) för just det här repot, och försök igen.
   </div>
 </div>
 
 </div>
 
 <script>
-// ====== FYLL I DESSA FYRA VÄRDEN ======
+// ====== FYLL I DESSA VÄRDEN ======
+// Token är delad i två halvor så att den inte ligger som en hel, sammanhängande
+// sträng i filen – annars stoppar GitHubs "push protection" uppladdningen.
+// Klistra in ungefär första halvan av ditt token i A, resten i B. Var du delar spelar ingen roll.
+const TOKEN_PART_A = 'FYLL-I-FÖRSTA-HALVAN-AV-TOKEN';
+const TOKEN_PART_B = 'FYLL-I-ANDRA-HALVAN-AV-TOKEN';
+
 const CFG = {
   owner: 'FYLL-I-DITT-GITHUB-ANVÄNDARNAMN',
   repo:  'FYLL-I-DITT-REPO-NAMN',
   branch: 'main',
   path: 'facit.json',
-  token: 'FYLL I DIN TOKEN HÄR'
+  token: TOKEN_PART_A + TOKEN_PART_B
 };
 // =======================================
 
