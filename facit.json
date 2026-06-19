@@ -1,5 +1,78 @@
 {
-  "g": {},
+  "g": {
+    "A": {
+      "Mexiko": "Ja",
+      "Sydafrika": "",
+      "Sydkorea": "",
+      "Tjeckien": ""
+    },
+    "B": {
+      "Bosnien/Herc": "",
+      "Kanada": "",
+      "Qatar": "",
+      "Schweiz": ""
+    },
+    "C": {
+      "Brasilien": "",
+      "Haiti": "",
+      "Marocko": "",
+      "Skottland": ""
+    },
+    "D": {
+      "Australien": "",
+      "Paraguay": "",
+      "Turkiet": "",
+      "USA": ""
+    },
+    "E": {
+      "Curacao": "",
+      "Ecuador": "",
+      "Elfenbenskusten": "",
+      "Tyskland": ""
+    },
+    "F": {
+      "Japan": "",
+      "Nederländerna": "",
+      "Sverige": "",
+      "Tunisien": ""
+    },
+    "G": {
+      "Belgien": "",
+      "Egypten": "",
+      "Iran": "",
+      "Nya Zeeland": ""
+    },
+    "H": {
+      "Kap Verde": "",
+      "Saudiarabien": "",
+      "Spanien": "",
+      "Uruguay": ""
+    },
+    "I": {
+      "Frankrike": "",
+      "Irak": "",
+      "Norge": "",
+      "Senegal": ""
+    },
+    "J": {
+      "Algeriet": "",
+      "Argentina": "",
+      "Jordanien": "",
+      "Österrike": ""
+    },
+    "K": {
+      "Colombia": "",
+      "Kongo-Kinshasa": "",
+      "Portugal": "",
+      "Uzbekistan": ""
+    },
+    "L": {
+      "England": "",
+      "Ghana": "",
+      "Kroatien": "",
+      "Panama": ""
+    }
+  },
   "s1": "1",
   "s2": "",
   "s3": "",
