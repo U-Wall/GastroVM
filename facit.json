@@ -8,7 +8,7 @@
     },
     "B": {
       "Bosnien/Herc": "",
-      "Kanada": "",
+      "Kanada": "Ja",
       "Qatar": "",
       "Schweiz": ""
     },
@@ -28,7 +28,7 @@
       "Curacao": "",
       "Ecuador": "",
       "Elfenbenskusten": "",
-      "Tyskland": ""
+      "Tyskland": "Ja"
     },
     "F": {
       "Japan": "",
@@ -74,10 +74,10 @@
     }
   },
   "s1": "1",
-  "s2": "",
+  "s2": "1",
   "s3": "",
   "r1": "5-1",
-  "r2": "",
+  "r2": "5-1",
   "r3": "",
   "kv": "",
   "sf": "",
