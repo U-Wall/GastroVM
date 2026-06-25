@@ -2,7 +2,7 @@
   "g": {
     "A": {
       "Mexiko": "Ja",
-      "Sydafrika": "",
+      "Sydafrika": "Ja",
       "Sydkorea": "",
       "Tjeckien": ""
     },
@@ -10,12 +10,12 @@
       "Bosnien/Herc": "",
       "Kanada": "Ja",
       "Qatar": "",
-      "Schweiz": ""
+      "Schweiz": "Ja"
     },
     "C": {
-      "Brasilien": "",
+      "Brasilien": "Ja",
       "Haiti": "",
-      "Marocko": "",
+      "Marocko": "Ja",
       "Skottland": ""
     },
     "D": {
