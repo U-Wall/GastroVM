@@ -19,8 +19,8 @@
       "Skottland": ""
     },
     "D": {
-      "Australien": "",
-      "Paraguay": "",
+      "Australien": "Ja",
+      "Paraguay": "Ja",
       "Turkiet": "Nej",
       "USA": "Ja"
     },
@@ -31,10 +31,10 @@
       "Tyskland": "Ja"
     },
     "F": {
-      "Japan": "",
-      "Nederländerna": "",
-      "Sverige": "",
-      "Tunisien": ""
+      "Japan": "Ja",
+      "Nederländerna": "Ja",
+      "Sverige": "Ja",
+      "Tunisien": "Nej"
     },
     "G": {
       "Belgien": "",
@@ -75,10 +75,10 @@
   },
   "s1": "1",
   "s2": "1",
-  "s3": "",
+  "s3": "X",
   "r1": "5-1",
   "r2": "5-1",
-  "r3": "",
+  "r3": "1-1",
   "kv": "",
   "sf": "",
   "fin": "",
