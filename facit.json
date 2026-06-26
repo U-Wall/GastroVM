@@ -7,9 +7,9 @@
       "Tjeckien": ""
     },
     "B": {
-      "Bosnien/Herc": "",
+      "Bosnien/Herc": "Ja",
       "Kanada": "Ja",
-      "Qatar": "",
+      "Qatar": "Nej",
       "Schweiz": "Ja"
     },
     "C": {
@@ -25,9 +25,9 @@
       "USA": "Ja"
     },
     "E": {
-      "Curacao": "",
-      "Ecuador": "",
-      "Elfenbenskusten": "",
+      "Curacao": "Nej",
+      "Ecuador": "Ja",
+      "Elfenbenskusten": "Ja",
       "Tyskland": "Ja"
     },
     "F": {
