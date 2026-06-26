@@ -38,14 +38,14 @@
     },
     "G": {
       "Belgien": "",
-      "Egypten": "",
+      "Egypten": "Ja",
       "Iran": "",
       "Nya Zeeland": ""
     },
     "H": {
       "Kap Verde": "",
       "Saudiarabien": "",
-      "Spanien": "",
+      "Spanien": "Ja",
       "Uruguay": ""
     },
     "I": {
@@ -63,12 +63,12 @@
     "K": {
       "Colombia": "Ja",
       "Kongo-Kinshasa": "",
-      "Portugal": "",
+      "Portugal": "Ja",
       "Uzbekistan": ""
     },
     "L": {
-      "England": "",
-      "Ghana": "",
+      "England": "Ja",
+      "Ghana": "Ja",
       "Kroatien": "",
       "Panama": ""
     }
