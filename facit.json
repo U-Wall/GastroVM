@@ -37,13 +37,13 @@
       "Tunisien": "Nej"
     },
     "G": {
-      "Belgien": "",
+      "Belgien": "Ja",
       "Egypten": "Ja",
       "Iran": "",
       "Nya Zeeland": ""
     },
     "H": {
-      "Kap Verde": "",
+      "Kap Verde": "Ja",
       "Saudiarabien": "",
       "Spanien": "Ja",
       "Uruguay": ""
@@ -63,7 +63,7 @@
     "K": {
       "Colombia": "Ja",
       "Kongo-Kinshasa": "",
-      "Portugal": "Ja",
+      "Portugal": "",
       "Uzbekistan": ""
     },
     "L": {
