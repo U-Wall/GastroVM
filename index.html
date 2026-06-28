@@ -251,7 +251,7 @@ function calcScore(d,f){
       let fv=n((f.g&&f.g[g]&&f.g[g][lag])||'');
       let dv=n((d.g&&d.g[g]&&d.g[g][lag])||'');
       if(fv==='ja'||fv==='nej')total++;
-      if(fv&&dv&&fv===dv)correct++;
+      if(fv==='ja'&&dv==='ja')correct++;
     });
     if(total>0){if(correct===1)pts+=2;else if(correct===2)pts+=5;else if(correct>=3)pts+=10;}
   });
