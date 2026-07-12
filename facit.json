@@ -1,76 +1,76 @@
 {
   "g": {
     "A": {
-      "Mexiko": "",
-      "Sydafrika": "",
-      "Sydkorea": "",
-      "Tjeckien": ""
+      "Mexiko": "Ja",
+      "Sydafrika": "Ja",
+      "Sydkorea": "Nej",
+      "Tjeckien": "Nej"
     },
     "B": {
-      "Bosnien/Herc": "",
-      "Kanada": "",
-      "Qatar": "",
-      "Schweiz": ""
+      "Bosnien/Herc": "Ja",
+      "Kanada": "Ja",
+      "Qatar": "Nej",
+      "Schweiz": "Ja"
     },
     "C": {
-      "Brasilien": "",
-      "Haiti": "",
-      "Marocko": "",
-      "Skottland": ""
+      "Brasilien": "Ja",
+      "Haiti": "Nej",
+      "Marocko": "Ja",
+      "Skottland": "Nej"
     },
     "D": {
-      "Australien": "",
-      "Paraguay": "",
-      "Turkiet": "",
-      "USA": ""
+      "Australien": "Ja",
+      "Paraguay": "Ja",
+      "Turkiet": "Nej",
+      "USA": "Ja"
     },
     "E": {
-      "Curacao": "",
-      "Ecuador": "",
-      "Elfenbenskusten": "",
-      "Tyskland": ""
+      "Curacao": "Nej",
+      "Ecuador": "Ja",
+      "Elfenbenskusten": "Ja",
+      "Tyskland": "Ja"
     },
     "F": {
-      "Japan": "",
-      "Nederländerna": "",
-      "Sverige": "",
-      "Tunisien": ""
+      "Japan": "Ja",
+      "Nederländerna": "Ja",
+      "Sverige": "Ja",
+      "Tunisien": "Nej"
     },
     "G": {
-      "Belgien": "",
-      "Egypten": "",
-      "Iran": "",
-      "Nya Zeeland": ""
+      "Belgien": "Ja",
+      "Egypten": "Ja",
+      "Iran": "Nej",
+      "Nya Zeeland": "Nej"
     },
     "H": {
-      "Kap Verde": "",
-      "Saudiarabien": "",
-      "Spanien": "",
-      "Uruguay": ""
+      "Kap Verde": "Ja",
+      "Saudiarabien": "Nej",
+      "Spanien": "Ja",
+      "Uruguay": "Nej"
     },
     "I": {
-      "Frankrike": "",
-      "Irak": "",
-      "Norge": "",
-      "Senegal": ""
+      "Frankrike": "Ja",
+      "Irak": "Nej",
+      "Norge": "Ja",
+      "Senegal": "Ja"
     },
     "J": {
-      "Algeriet": "",
-      "Argentina": "",
-      "Jordanien": "",
-      "Österrike": ""
+      "Algeriet": "Ja",
+      "Argentina": "Ja",
+      "Jordanien": "Nej",
+      "Österrike": "Ja"
     },
     "K": {
-      "Colombia": "",
-      "Kongo-Kinshasa": "",
-      "Portugal": "",
-      "Uzbekistan": ""
+      "Colombia": "Ja",
+      "Kongo-Kinshasa": "Ja",
+      "Portugal": "Ja",
+      "Uzbekistan": "Nej"
     },
     "L": {
-      "England": "",
-      "Ghana": "",
-      "Kroatien": "",
-      "Panama": ""
+      "England": "Ja",
+      "Ghana": "Ja",
+      "Kroatien": "Ja",
+      "Panama": "Nej"
     }
   },
   "s1": "1",
@@ -79,8 +79,8 @@
   "r1": "5-1",
   "r2": "5-1",
   "r3": "1-1",
-  "kv": "",
-  "sf": "Frankrike",
+  "kv": "Frankrike, Argentina, England, Spanien, Norge, Schweiz, Belgien, Marocko",
+  "sf": "Frankrike, Argentina, England, Spanien",
   "fin": "",
   "vin": "",
   "sky": "",
